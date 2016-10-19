@@ -1,0 +1,24 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "Streams Demo",
+  "main": "stream.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "Hey"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samorgill/streams.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Sam Orgill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samorgill/streams/issues"
+  },
+  "homepage": "https://github.com/samorgill/streams#readme"
+}
